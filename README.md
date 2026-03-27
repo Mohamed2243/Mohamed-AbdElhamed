@@ -34,8 +34,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246)]
-[![mail](mohamedelanby@icloud.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelanby@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed2243)
 
