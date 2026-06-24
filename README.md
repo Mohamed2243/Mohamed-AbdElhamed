@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohamed Abdelhamid
+# 👋 Hi, I'm Mohamed Abdelhamed
 
 🎓 Graduate of Faculty of Arts, English and Translation - Tanta University
 
