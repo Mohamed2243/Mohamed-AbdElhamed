@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Mohamed Abdelhamed
 
-🎓 Graduate of Faculty of Arts, English and Translation - Tanta University
-
 💻 React Frontend Developer | TypeScript | JavaScript | ASP.NET Core
 
-🚀 Passionate about building modern, responsive, and user-friendly web applications using React and TypeScript.
+🚀 Passionate about building modern, responsive, and user-friendly web applications.
 
-🏗️ Experienced in developing business platforms, healthcare systems, CRM solutions, and responsive websites.
+🏗️ Experienced in developing CRM systems, healthcare platforms, business websites, and full-stack applications.
 
 ---
 
@@ -14,44 +12,61 @@
 
 ### 🏋️ Elite Coach CRM
 
-> Fitness coaching platform for managing clients, workout plans, nutrition plans, and progress tracking.
+Fitness coaching platform for managing clients, workout plans, nutrition plans, and progress tracking.
 
-* **Role:** Frontend & Backend Developer
-* **Stack:** React.js, TypeScript, ASP.NET Core, SQL Server
+**Role:** Frontend & Backend Developer
+
+**Tech Stack:** React.js, TypeScript, ASP.NET Core, SQL Server
+
+**Live Project:** https://omarharery.com
+
+**Highlights**
+
 * JWT Authentication
-* Responsive Design
 * Coach & Client Dashboards
 * REST API Integration
+* Responsive Design
+* Client Management System
 
 ---
 
-### 🌐 Jusoor Dana Translation Office Website
+### 🌐 Gossor Translation Website
 
-> Professional business website for a translation office.
+Professional translation and localization company website.
 
-* **Role:** Frontend Developer
-* **Stack:** React.js, TypeScript, HTML5, CSS3
+**Role:** Frontend Developer
+
+**Tech Stack:** React.js, TypeScript, HTML5, CSS3
+
+**Live Project:** https://gossortranslation.com
+
+**Highlights**
+
 * Responsive Design
 * Reusable Components
 * Modern UI/UX
+* Mobile Friendly Layout
+* SEO-Friendly Structure
 
 ---
 
 ### 🏥 Radiology Center Booking System
 
-> Full-stack system for managing radiology center appointments.
+Full-stack system for managing radiology center appointments.
 
-* **Role:** Full-Stack Developer (Team Member)
-* **Stack:** ASP.NET Core, Angular, SQL Server, Firebase
+**Role:** Full-Stack Developer (Team Member)
+
+**Stack:** ASP.NET Core, Angular, SQL Server, Firebase
 
 ---
 
 ### 💊 Pharmacy Marketplace Platform
 
-> Comprehensive platform for pharmacists and pharmacy management.
+Comprehensive platform for pharmacists and pharmacy management.
 
-* **Role:** Full-Stack Developer (Team Member)
-* **Stack:** ASP.NET Core, Angular, SQL Server
+**Role:** Full-Stack Developer (Team Member)
+
+**Stack:** ASP.NET Core, Angular, SQL Server
 
 ---
 
@@ -84,19 +99,22 @@
 * GitHub
 * Azure DevOps
 * Firebase
-* VS Code
 * Visual Studio
+* VS Code
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246)
+LinkedIn:
+https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohamedelanby@icloud.com)
+GitHub:
+https://github.com/Mohamed2243
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Mohamed2243)
+Email:
+[mohamedelanby@icloud.com](mailto:mohamedelanby@icloud.com)
 
 ---
 
-> Building clean code, scalable applications, and continuously improving my React development skills.
+Building clean code, scalable applications, and continuously improving my React development skills.
