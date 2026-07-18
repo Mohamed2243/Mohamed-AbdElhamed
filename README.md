@@ -4,156 +4,167 @@
 
 ### React Frontend Engineer
 
-Building scalable web applications with **React**, **TypeScript**, **ASP.NET Core**, and **SQL Server**
+Building responsive web applications and business platforms with React, TypeScript, ASP.NET Core, and SQL Server.
 
-📍 Egypt
+Egypt
 
-<br/>
+<br />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Abdelhamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
-[![GitHub](https://img.shields.io/badge/GitHub-Mohamed2243-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed2243)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elanby@icloud.com)
 
 </div>
 
 ---
 
-# 👋 About Me
+## About Me
 
-Frontend Developer with experience building responsive web applications, healthcare systems, CRM platforms, and enterprise dashboards.
+Frontend Developer with experience building responsive web applications, healthcare systems, CRM platforms, dashboards, and business websites.
 
-I enjoy transforming complex business requirements into clean, scalable, and user-friendly interfaces using **React**, **TypeScript**, and **ASP.NET Core**.
+I work mainly with React and TypeScript on the frontend, with practical experience integrating ASP.NET Core APIs, SQL Server, JWT authentication, Firebase notifications, and role-based business workflows.
 
----
-
-# 🚀 Portfolio
-
-### 🔗 https://mohamed2243.github.io/io/
-
-The portfolio contains:
-
-- Live projects
-- Demo videos
-- Skills
-- Professional experience
-- Project case studies
+I focus on clean interfaces, maintainable code, responsive design, and reliable user experiences.
 
 ---
 
-# ⭐ Featured Projects
+## Featured Projects
 
-| Project | Role | Technologies | Live |
-|----------|------|--------------|------|
-| **Radiology Management Platform** | Full Stack Developer | React • ASP.NET Core • SQL Server • Firebase | Demo |
-| **Elite Coach CRM** | Full Stack Developer | React • TypeScript • ASP.NET Core | https://omarharery.com |
-| **DOC WAY Healthcare Platform** | Full Stack Developer (Angular) | Angular • ASP.NET Core • SQL Server | https://docway.org |
-| **Gossor Translation** | React Frontend Developer | React • JavaScript • SEO | https://gossortranslation.com |
+### Radiology Management Platform
 
-👉 **See all projects**
+**Role:** Full Stack Developer  
+**Stack:** React, JavaScript, ASP.NET Core, SQL Server, Firebase, REST APIs, JWT
 
-https://mohamed2243.github.io/io/#projects
+Healthcare operations platform for managing radiology appointments, insurance workflows, users, pharmacy and laboratory contracts, notifications, and administrative processes.
+
+**Highlights:**
+
+- Appointment booking and management
+- Insurance and provider workflows
+- User roles and permissions
+- Firebase notifications
+- Mobile application integration
+
+[Public Website](https://www.khaleddewan.info/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
 
 ---
 
-# 💻 Tech Stack
+### Elite Coach CRM
+
+**Role:** Full Stack Developer  
+**Stack:** React, TypeScript, ASP.NET Core, SQL Server, REST APIs, JWT
+
+A coaching platform that manages the client journey from online intake and confirmation to workout plans, nutrition programs, recipes, notes, and progress tracking.
+
+**Highlights:**
+
+- Public client onboarding
+- Coach and client dashboards
+- Workout and nutrition management
+- Progress and history tracking
+
+[Live Website](https://omarharery.com/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+
+---
+
+### DOC WAY Healthcare Platform
+
+**Role:** Full Stack Developer — Angular  
+**Stack:** Angular, TypeScript, ASP.NET Core, SQL Server, REST APIs, JWT
+
+A medical marketplace and administration platform supporting medical properties, medicine requests, jobs, training opportunities, contracts, customers, and role-based workflows.
+
+**Highlights:**
+
+- Medical property sales and rentals
+- Medicine requests
+- Jobs and training opportunities
+- Contracts and customer management
+- Roles and permissions
+
+[Public Website](https://docway.org/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+
+---
+
+### Gossor Translation Website
+
+**Role:** React Frontend Developer  
+**Stack:** React, JavaScript, Vite, Responsive Design, SEO
+
+A responsive Arabic website for a professional translation office, designed to present services clearly, improve usability, and support customer inquiries.
+
+**Highlights:**
+
+- Responsive Arabic interface
+- Mobile-friendly navigation
+- Clear service presentation
+- SEO-friendly structure
+
+[Live Website](https://gossortranslation.com/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+
+---
+
+## Technical Skills
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
----
+React · TypeScript · JavaScript · Angular · HTML5 · CSS3 · Responsive Design · Vite
 
 ### Backend
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
-
----
+ASP.NET Core · C# · Entity Framework Core · Dapper · SignalR
 
 ### Database
 
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+SQL Server · Stored Procedures · Indexes · Query Optimization
+
+### APIs and Authentication
+
+REST APIs · GraphQL · JWT · ASP.NET Identity · Firebase Notifications · Swagger
+
+### Tools and DevOps
+
+Git · GitHub · Azure DevOps · CI/CD Pipelines · Jenkins Exposure · Postman · VS Code · Rider · Figma · IIS
 
 ---
 
-### DevOps & Tools
+## What I Build
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
----
-
-# 🏗 What I Build
-
-- Enterprise Dashboards
-- CRM Systems
-- Healthcare Platforms
-- Business Websites
-- REST API Integration
-- Authentication & JWT
-- Responsive Interfaces
-- Admin Panels
+- Responsive web applications
+- CRM systems
+- Healthcare platforms
+- Administrative dashboards
+- Client-facing websites
+- Role-based systems
+- REST API integrations
+- Authentication and JWT workflows
+- Real-time notifications
+- Business management platforms
 
 ---
 
-# 📈 GitHub Stats
+## Portfolio
 
-<p align="center">
+My portfolio includes project details, live websites, and private system demo videos.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed2243&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2243&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mohamed2243&theme=tokyonight&hide_border=true"/>
-
-</p>
+### [View Full Portfolio](https://mohamed2243.github.io/io/)
 
 ---
 
-# 📫 Contact
+## Contact
 
-📧 **mohamed.elanby@icloud.com**
+**Email:** [mohamed.elanby@icloud.com](mailto:mohamed.elanby@icloud.com)
 
-📍 Egypt
+**LinkedIn:** [Mohamed Abdelhamed](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
 
-💼 LinkedIn
+**GitHub:** [Mohamed2243](https://github.com/Mohamed2243)
 
-https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/
-
-🌐 Portfolio
-
-https://mohamed2243.github.io/io/
-
-💻 GitHub
-
-https://github.com/Mohamed2243
+**Portfolio:** [mohamed2243.github.io/io](https://mohamed2243.github.io/io/)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-**Building clean, scalable, and user-focused web applications with modern technologies.**
-
-<br/>
-
-[![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
+Building clean, maintainable, and user-focused web applications.
 
 </div>
