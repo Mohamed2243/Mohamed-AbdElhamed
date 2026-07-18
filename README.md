@@ -1,49 +1,65 @@
 <div align="center">
 
-# Mohamed AbdElhamed
+# Mohamed Abdelhamed
 
-**React Frontend Developer** · TypeScript · ASP.NET Core · Cairo, Egypt
+### React Frontend Engineer
 
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-Live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Mohamed2243.github.io/io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedelanby@icloud.com)
+Building scalable web applications with **React**, **TypeScript**, **ASP.NET Core**, and **SQL Server**
+
+📍 Egypt
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_Abdelhamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed2243-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed2243)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elanby@icloud.com)
 
 </div>
 
 ---
 
-## 🚀 My Portfolio
+# 👋 About Me
 
-**Every project, skill, and live demo — in one place:**
+Frontend Developer with experience building responsive web applications, healthcare systems, CRM platforms, and enterprise dashboards.
 
-### 👉 **[Mohamed2243.github.io/io](https://Mohamed2243.github.io/io/)** 👈
-
----
-
-## About Me
-
-Passionate about building **modern, responsive, and user-friendly** web applications.
-
-Experienced in **CRM systems**, **healthcare platforms**, business websites, and full-stack applications with clean architecture and JWT-secured APIs.
+I enjoy transforming complex business requirements into clean, scalable, and user-friendly interfaces using **React**, **TypeScript**, and **ASP.NET Core**.
 
 ---
 
-## Featured Projects
+# 🚀 Portfolio
 
-| Project | Role | Stack | Live |
-|:--------|:-----|:------|:-----|
-| **Elite Coach CRM** | Frontend & Backend | React · TypeScript · ASP.NET Core | [omarharery.com](https://omarharery.com) |
-| **Gossor Translation** | Frontend | React · TypeScript | [gossortranslation.com](https://gossortranslation.com) |
-| **Radiology Booking** | Full-Stack | Angular · ASP.NET Core · Firebase | — |
-| **Pharmacy Marketplace** | Full-Stack | Angular · ASP.NET Core · SQL Server | — |
+### 🔗 https://mohamed2243.github.io/io/
 
-> 📂 [See all 7+ projects on my portfolio →](https://Mohamed2243.github.io/io/#projects)
+The portfolio contains:
+
+- Live projects
+- Demo videos
+- Skills
+- Professional experience
+- Project case studies
 
 ---
 
-## Tech Stack
+# ⭐ Featured Projects
 
-**Frontend**  
+| Project | Role | Technologies | Live |
+|----------|------|--------------|------|
+| **Radiology Management Platform** | Full Stack Developer | React • ASP.NET Core • SQL Server • Firebase | Demo |
+| **Elite Coach CRM** | Full Stack Developer | React • TypeScript • ASP.NET Core | https://omarharery.com |
+| **DOC WAY Healthcare Platform** | Full Stack Developer (Angular) | Angular • ASP.NET Core • SQL Server | https://docway.org |
+| **Gossor Translation** | React Frontend Developer | React • JavaScript • SEO | https://gossortranslation.com |
+
+👉 **See all projects**
+
+https://mohamed2243.github.io/io/#projects
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,14 +67,26 @@ Experienced in **CRM systems**, **healthcare platforms**, business websites, and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Backend & Database**  
+---
+
+### Backend
+
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+
+---
+
+### Database
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Tools**  
+---
+
+### DevOps & Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
@@ -67,21 +95,65 @@ Experienced in **CRM systems**, **healthcare platforms**, business websites, and
 
 ---
 
-## Connect
+# 🏗 What I Build
 
-[![GitHub](https://img.shields.io/badge/GitHub-@Mohamed2243-181717?style=flat-square&logo=github)](https://github.com/Mohamed2243)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed_AbdElhamed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
+- Enterprise Dashboards
+- CRM Systems
+- Healthcare Platforms
+- Business Websites
+- REST API Integration
+- Authentication & JWT
+- Responsive Interfaces
+- Admin Panels
 
-📧 **mohamedelanby@icloud.com** · 📍 **Egypt**
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohamed2243&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed2243&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mohamed2243&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📧 **mohamed.elanby@icloud.com**
+
+📍 Egypt
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/
+
+🌐 Portfolio
+
+https://mohamed2243.github.io/io/
+
+💻 GitHub
+
+https://github.com/Mohamed2243
 
 ---
 
 <div align="center">
 
-*Building clean code, scalable applications, and great user experiences.*
+### ⭐ Thanks for visiting my profile!
+
+**Building clean, scalable, and user-focused web applications with modern technologies.**
 
 <br/>
 
-[![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://Mohamed2243.github.io/io/)
+[![View Portfolio](https://img.shields.io/badge/View_Full_Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
 
 </div>
