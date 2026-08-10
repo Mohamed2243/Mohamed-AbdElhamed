@@ -8,7 +8,7 @@
 
 Building modern web applications, healthcare systems, CRM platforms, and business solutions using ASP.NET Core, Angular, React, and SQL Server.
 
-📍 Egypt
+📍 Elmahalla-Elkubra , El Gharbia, Egypt
 
 <br />
 
