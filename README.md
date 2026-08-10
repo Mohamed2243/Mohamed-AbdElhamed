@@ -2,16 +2,19 @@
 
 # Mohamed Abdelhamed
 
-### React Frontend Engineer
+## Full Stack .NET Developer
 
-Building responsive web applications and business platforms with React, TypeScript, ASP.NET Core, and SQL Server.
+**ASP.NET Core • C# • SQL Server • Angular • React**
 
-Egypt
+Building modern web applications, healthcare systems, CRM platforms, and business solutions using ASP.NET Core, Angular, React, and SQL Server.
+
+📍 Egypt
 
 <br />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohamed2243.github.io/io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelhamed-2a7ba1246/)
+[![GitHub](https://img.shields.io/badge/GitHub-Mohamed2243-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed2243)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.elanby@icloud.com)
 
 </div>
@@ -20,11 +23,58 @@ Egypt
 
 ## About Me
 
-Frontend Developer with experience building responsive web applications, healthcare systems, CRM platforms, dashboards, and business websites.
+I'm a **Full Stack .NET Developer** with hands-on experience building healthcare systems, CRM platforms, administrative dashboards, business applications, and customer-facing web solutions.
 
-I work mainly with React and TypeScript on the frontend, with practical experience integrating ASP.NET Core APIs, SQL Server, JWT authentication, Firebase notifications, and role-based business workflows.
+I work with **ASP.NET Core, C#, SQL Server, Entity Framework Core, REST APIs, and JWT authentication** on the backend, alongside **Angular, React, TypeScript, and JavaScript** on the frontend.
 
-I focus on clean interfaces, maintainable code, responsive design, and reliable user experiences.
+I focus on translating real business requirements into reliable applications with clear workflows, secure API integration, responsive interfaces, and maintainable code.
+
+---
+
+## Technical Skills
+
+### Backend
+
+- ASP.NET Core
+- C#
+- Entity Framework Core
+
+### Database
+
+- SQL Server
+- Database Design
+
+### APIs & Security
+
+- REST APIs
+- GraphQL
+- JWT Authentication
+- ASP.NET Identity
+- Swagger / OpenAPI
+- Firebase Notifications
+
+### Frontend
+
+- Angular
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+- Responsive Design
+- Vite
+
+### DevOps & Tools
+
+- Azure DevOps
+- CI/CD Pipelines
+- Git
+- GitHub
+- GitHub Actions
+- IIS
+- Postman
+- VS Code
+- Figma
 
 ---
 
@@ -32,120 +82,100 @@ I focus on clean interfaces, maintainable code, responsive design, and reliable 
 
 ### Radiology Management Platform
 
-**Role:** Full Stack Developer  
-**Stack:** React, JavaScript, ASP.NET Core, SQL Server, Firebase, REST APIs, JWT
+**Role:** Full Stack .NET Developer  
+**Stack:** ASP.NET Core · C# · SQL Server · REST APIs · JWT · Firebase · React · JavaScript
 
-Healthcare operations platform for managing radiology appointments, insurance workflows, users, pharmacy and laboratory contracts, notifications, and administrative processes.
+A healthcare management platform for handling radiology appointments, insurance workflows, users, laboratories, pharmacies, contracts, notifications, and administrative operations.
 
-**Highlights:**
+**Key Work**
 
-- Appointment booking and management
-- Insurance and provider workflows
-- User roles and permissions
-- Firebase notifications
-- Mobile application integration
+- Developed backend functionality using ASP.NET Core.
+- Integrated frontend features with REST APIs.
+- Worked with SQL Server-backed business workflows.
+- Implemented authentication, users, roles, and permissions.
+- Worked with Firebase notifications and mobile application integration.
+- Built and maintained healthcare administration workflows.
 
-[Public Website](https://www.khaleddewan.info/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+[Public Website](https://www.khaleddewan.info/) · [Portfolio Details](https://mohamed2243.github.io/io/#projects)
 
 ---
 
 ### Elite Coach CRM
 
-**Role:** Full Stack Developer  
-**Stack:** React, TypeScript, ASP.NET Core, SQL Server, REST APIs, JWT
+**Role:** Full Stack .NET Developer  
+**Stack:** ASP.NET Core · C# · SQL Server · REST APIs · JWT · React · TypeScript
 
-A coaching platform that manages the client journey from online intake and confirmation to workout plans, nutrition programs, recipes, notes, and progress tracking.
+A fitness coaching CRM that manages the client journey from public onboarding and confirmation to workout plans, nutrition programs, recipes, notes, history, and progress tracking.
 
-**Highlights:**
+**Key Work**
 
-- Public client onboarding
-- Coach and client dashboards
-- Workout and nutrition management
-- Progress and history tracking
+- Developed ASP.NET Core backend functionality.
+- Integrated secure REST APIs with JWT authentication.
+- Built coach and client workflows.
+- Developed workout, nutrition, recipes, and progress modules.
+- Built responsive React and TypeScript dashboards.
+- Worked with SQL Server for application data.
 
-[Live Website](https://omarharery.com/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+[Live Website](https://omarharery.com/) · [Portfolio Details](https://mohamed2243.github.io/io/#projects)
 
 ---
 
 ### DOC WAY Healthcare Platform
 
-**Role:** Full Stack Developer — Angular  
-**Stack:** Angular, TypeScript, ASP.NET Core, SQL Server, REST APIs, JWT
+**Role:** Full Stack .NET / Angular Developer  
+**Stack:** ASP.NET Core · C# · SQL Server · REST APIs · JWT · Angular · TypeScript
 
-A medical marketplace and administration platform supporting medical properties, medicine requests, jobs, training opportunities, contracts, customers, and role-based workflows.
+A healthcare marketplace and operations platform supporting medical properties, medicine requests, jobs, training opportunities, contracts, customers, user types, permissions, and administrative workflows.
 
-**Highlights:**
+**Key Work**
 
-- Medical property sales and rentals
-- Medicine requests
-- Jobs and training opportunities
-- Contracts and customer management
-- Roles and permissions
+- Developed frontend modules using Angular and TypeScript.
+- Integrated Angular applications with ASP.NET Core REST APIs.
+- Worked with SQL Server-backed business data.
+- Implemented authentication and role-based workflows.
+- Developed modules for medical properties, medicine requests, jobs, training, contracts, and customer management.
 
-[Public Website](https://docway.org/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
+[Public Website](https://docway.org/) · [Portfolio Details](https://mohamed2243.github.io/io/#projects)
 
 ---
 
 ### Gossor Translation Website
 
 **Role:** React Frontend Developer  
-**Stack:** React, JavaScript, Vite, Responsive Design, SEO
+**Stack:** React · JavaScript · Vite · Responsive Design · SEO
 
-A responsive Arabic website for a professional translation office, designed to present services clearly, improve usability, and support customer inquiries.
+A responsive Arabic business website for a certified translation office, designed to clearly present services, improve usability, and support customer inquiries.
 
-**Highlights:**
+**Key Work**
 
-- Responsive Arabic interface
-- Mobile-friendly navigation
-- Clear service presentation
-- SEO-friendly structure
+- Developed reusable React UI components.
+- Built a responsive Arabic interface.
+- Improved mobile usability and navigation.
+- Implemented an SEO-friendly public website structure.
 
-[Live Website](https://gossortranslation.com/) · [View Portfolio Details](https://mohamed2243.github.io/io/#projects)
-
----
-
-## Technical Skills
-
-### Frontend
-
-React · TypeScript · JavaScript · Angular · HTML5 · CSS3 · Responsive Design · Vite
-
-### Backend
-
-ASP.NET Core · C# · Entity Framework Core · Dapper · SignalR
-
-### Database
-
-SQL Server · Stored Procedures · Indexes · Query Optimization
-
-### APIs and Authentication
-
-REST APIs · GraphQL · JWT · ASP.NET Identity · Firebase Notifications · Swagger
-
-### Tools and DevOps
-
-Git · GitHub · Azure DevOps · CI/CD Pipelines · Jenkins Exposure · Postman · VS Code · Rider · Figma · IIS
+[Live Website](https://gossortranslation.com/) · [Portfolio Details](https://mohamed2243.github.io/io/#projects)
 
 ---
 
 ## What I Build
 
-- Responsive web applications
-- CRM systems
-- Healthcare platforms
-- Administrative dashboards
-- Client-facing websites
-- Role-based systems
-- REST API integrations
-- Authentication and JWT workflows
-- Real-time notifications
-- Business management platforms
+- Business Web Applications
+- Healthcare Management Systems
+- CRM Platforms
+- Administrative Dashboards
+- REST API Integrations
+- SQL Server Applications
+- Authentication & Role-Based Systems
+- Angular Applications
+- React Applications
+- Client-Facing Websites
+- Business Workflow Solutions
 
 ---
 
 ## Portfolio
 
-My portfolio includes project details, live websites, and private system demo videos.
+My portfolio includes project details, live websites, and demo videos for selected private systems.
 
 ### [View Full Portfolio](https://mohamed2243.github.io/io/)
 
@@ -165,6 +195,10 @@ My portfolio includes project details, live websites, and private system demo vi
 
 <div align="center">
 
-Building clean, maintainable, and user-focused web applications.
+### Full Stack .NET Developer
+
+**ASP.NET Core • C# • SQL Server • Angular • React**
+
+Building reliable software for real business needs.
 
 </div>
